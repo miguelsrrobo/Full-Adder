@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\migue\OneDrive\Documentos\lab0\sim
+vfull_adder
+Z1 !s100 cQ3TaE[Xma8>^Jnk@eZUK1
+Z2 I?Wzg8CKD4OWgPF522=aZB2
+Z3 VNU5<ZV4h2M<RIeOGj[ffl1
+Z4 dC:\Users\migue\OneDrive\Documentos\lab2\sim
+Z5 w1680039139
+Z6 8C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder.v
+Z7 FC:/Users/migue/OneDrive/Documentos/lab2/src/full_adder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder.v|
+Z10 o-work work -O0
+Z11 !s108 1680215338.483000
+Z12 !s107 C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_tb
+Z13 !s100 4`ZFOOVUi6ITZTDf45`z92
+Z14 IN86CKH^=Sj]T9`DP_53Fz2
+Z15 V<cciNa2NK8hB;;eTZoAKZ3
+R4
+Z16 w1680215224
+Z17 8C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder_tb.v
+Z18 FC:/Users/migue/OneDrive/Documentos/lab2/src/full_adder_tb.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder_tb.v|
+R10
+!i10b 1
+!s85 0
+Z20 !s108 1680215338.658000
+Z21 !s107 C:/Users/migue/OneDrive/Documentos/lab2/src/full_adder_tb.v|
+!s101 -O0
+vhalf_adder
+!i10b 1
+Z22 !s100 [Q04XC4PDzd]@Yi6KYZXc3
+Z23 IF`ej8C^Vl8=m4CJ1h52oR2
+Z24 Vi;]XPD]Q[FDiNj9KhN]e[3
+R4
+Z25 w1679781780
+Z26 8C:/Users/migue/OneDrive/Documentos/lab2/src/half_adder.v
+Z27 FC:/Users/migue/OneDrive/Documentos/lab2/src/half_adder.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1680215338.788000
+!s107 C:/Users/migue/OneDrive/Documentos/lab2/src/half_adder.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/migue/OneDrive/Documentos/lab2/src/half_adder.v|
+!s101 -O0
+R10
