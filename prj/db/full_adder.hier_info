@@ -1,0 +1,26 @@
+|full_adder
+a => a.IN1
+b => b.IN1
+cin => cin.IN1
+sum << half_adder:HA2.port2
+carry << carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_adder|half_adder:HA1
+a => saida_da_soma.IN0
+a => saida_do_carry.IN0
+b => saida_da_soma.IN1
+b => saida_do_carry.IN1
+sum <= saida_da_soma.DB_MAX_OUTPUT_PORT_TYPE
+carry <= saida_do_carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|full_adder|half_adder:HA2
+a => saida_da_soma.IN0
+a => saida_do_carry.IN0
+b => saida_da_soma.IN1
+b => saida_do_carry.IN1
+sum <= saida_da_soma.DB_MAX_OUTPUT_PORT_TYPE
+carry <= saida_do_carry.DB_MAX_OUTPUT_PORT_TYPE
+
+
